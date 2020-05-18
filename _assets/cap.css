@@ -236,6 +236,10 @@ body {
   color: #333333;
 }
 
+.header-inner .header-nav li a.cap-primary {
+  color: #4384c4;
+}
+
 .header-inner .header-nav li a:hover,
 .header-inner .header-nav li a.active {
   color: #006996;
